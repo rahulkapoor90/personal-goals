@@ -7,6 +7,7 @@ Things I'll do this week:
 
 - [ ] Push commits to awesome-windows repository.
 - [ ] Submit IBM Watson Apphack app.
+- [ ] Complete 30 days of code on hackerrank.
 
 Things I'll do in the future:
 
