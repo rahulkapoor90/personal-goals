@@ -9,6 +9,9 @@ Things I'll do this week:
 - [ ] Submit IBM Watson Apphack app.
 - [ ] Complete 30 days of code on hackerrank.
 
+Things that are important:
+- [ ] 30 days of coding challenge on Github.
+
 Things I'll do in the future:
 
 - [ ] Do something with [Picturefill](http://scottjehl.github.io/picturefill/)
